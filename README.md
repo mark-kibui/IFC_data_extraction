@@ -10,6 +10,14 @@ Building Information Modeling (BIM) platforms store complex data in IFC files, m
 - How frequently do specific object types (e.g., Rebar Bar, Structural Column) appear?
 - How can this information be visualized and used for further analysis?
 
+## Data Source
+
+The structural data used in this project was extracted from the **Snowdon Tower Sample Project**, provided by Autodesk as a demonstration model.
+
+- **Software Used**: Revit 2024  
+- **Export Format**: IFC  
+- **Source**: [Autodesk Sample Project – Snowdon Tower](https://help.autodesk.com/view/RVT/2024/ENU/?guid=GUID-61EF2F22-3A1F-4317-B925-1E85F138BE88)
+
 ## Objectives
 
 - **Extract Meaningful Data**: Go beyond geometric information to access structured data relevant to construction elements.
