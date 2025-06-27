@@ -31,9 +31,34 @@ The analysis focuses on commonly used structural components, including:
 - **Beams**  
 - **Slabs / Floors**  
 
-These elements are filtered based on their `ObjectType` within the model data and counted for visualization and interpretation.
+## Visuals
 
----
+The `Visuals/` folder contains output charts that summarize the distribution and quality of structural elements from the IFC model.
+
+### Distribution of Beam Types
+Shows the count of various beam object types found in the structural model.
+
+![Distribution of Beam Types](Visuals/Distribution%20of%20Beam%20types.png)
+
+
+### Distribution of Column Types
+Visualizes how different types of structural columns are represented in the model.
+
+![Distribution of Column Types](Visuals/Distribution%20of%20column%20types.png)
+
+
+### Distribution of Null Counts Across Column Types
+Highlights which column types contain missing or null data, useful for data quality checks.
+
+![Distribution of Null Counts Across Column Types](Visuals/Distribution%20of%20Null%20Counts%20Across%20Column%20types.png)
+
+
+### Distribution of Rebar Types
+Displays the frequency of different rebar bar types used throughout the model.
+
+![Distribution of Rebar Types](Visuals/Distribution%20of%20Rebar%20types.png)
+
+These elements are filtered based on their `ObjectType` within the model data and counted for visualization and interpretation.
 
 ## Project Structure
 
