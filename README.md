@@ -1,4 +1,5 @@
 # Structural Element Analysis from IFC Data
+![IFC Snapshot image](Visuals/SnapshotIFC.png)
 
 This project explores structural elements extracted from IFC (Industry Foundation Classes) files, focusing on identifying, categorizing, and visualizing key object types such as **rebar bars, columns, beams, slabs, and floors**. It aims to surface structured insights from model data typically buried in geometric and technical metadata.
 
